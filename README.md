@@ -6,4 +6,5 @@ Pre-requisities:
 ```
 -Python
 -Pytube
+-FFmpeg
 ```
