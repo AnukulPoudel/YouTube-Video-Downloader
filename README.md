@@ -22,3 +22,11 @@ This script works in following way:
    iv. If the video is downloading in DASH then the video will not be available until the FFmpeg is finished combining them.
    v. If the video is progressive than we can see the video as soon as it starts downloading.
 ```
+Things to add:
+==========================
+```
+1. downloading Subtitle/Caption
+2. downloading Playlists
+3. downloading Channel`s video
+4. A good looking UI
+```
