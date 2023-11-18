@@ -1,7 +1,7 @@
 # YouTube-Video-Downloader
 This script selects and downloads the best quality of both video and audio available and merges them togetheir and saves them in the current directory.
 
-##This script is only tested on Arch linux. So I don't know if this still works in another OS.
+## This script is only tested on Arch Linux. So I don't know if this works in another OS!!
 
 Pre-requisities:
 ==========================
